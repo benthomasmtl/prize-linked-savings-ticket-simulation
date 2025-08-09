@@ -1,0 +1,19 @@
+# .gitignore for Python projects
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+.env
+.venv
+venv/
+ENV/
+.envrc
+*.env
+.ipynb_checkpoints/
+.DS_Store
+# VS Code
+.vscode/
