@@ -1,6 +1,6 @@
 # Prize-linked Savings Simulation
 
-This project simulates the process of finding a winning ticket in a prize-linked savings scenario. It is implemented in a Jupyter notebook for easy experimentation and visualization.
+This project simulates the process of finding a 'winning ticket' in a prize-linked savings scenario. It is implemented in a Jupyter notebook for easy experimentation and visualization.
 
 ## Features
 
