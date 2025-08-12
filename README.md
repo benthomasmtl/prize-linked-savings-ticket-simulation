@@ -1,12 +1,13 @@
 # Prize-linked Savings Simulation
 
-This project simulates the process of finding a 'winning ticket' in a prize-linked savings scenario. It is implemented in a Jupyter notebook for easy experimentation and visualization.
+This project simulates a prize-linked savings scenario, allowing you to explore the distribution of ticket matches and the odds of winning. The simulation is implemented in a Jupyter notebook with a modern, interactive interface.
 
 ## Features
 
-- Simulates random draws and tracks winning outcomes
-- Visualizes results using Python libraries
-- Easy to modify for different prize-linked savings rules or probabilities
+- Interactive controls for all simulation parameters (number of users, mean/SD tickets per user, max ticket number)
+- One-click "Save & Run Full Simulation" button to generate all results
+- Bar chart of match distribution
+- Summary table and statistics
 
 ## Getting Started
 
@@ -21,7 +22,7 @@ This project simulates the process of finding a 'winning ticket' in a prize-link
 1. Clone the repository:
    ```bash
    git clone <repo-url>
-   cd winning_ticket_simulation
+   cd prize-linked-savings-ticket-simulation
    ```
 2. (Optional) Create and activate a virtual environment:
    ```bash
@@ -34,12 +35,18 @@ This project simulates the process of finding a 'winning ticket' in a prize-link
    ```
 4. Launch the notebook:
    ```bash
-   jupyter notebook winning_ticket_simulation.ipynb
+   jupyter notebook prize-linked savings ticket simulation.ipynb
    ```
 
 ## Usage
 
-Open the notebook and run the cells. Modify parameters as needed to experiment with different scenarios related to prize-linked savings.
+1. Open the notebook `prize-linked savings ticket simulation.ipynb` in Jupyter.
+2. Use the interactive widgets to set the number of users, mean and SD of tickets per user, and the max ticket number.
+3. Click the green "Save & Run Full Simulation" button to run the simulation.
+4. View the results:
+   - A bar chart of ticket match distribution
+   - A summary table of ticket match counts
+   - Summary statistics for ticket counts
 
 ## Contributing
 
